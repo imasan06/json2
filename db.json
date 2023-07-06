@@ -1,4 +1,15 @@
-const user = {
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}, 
+"lista": {
     "id": 1,
     "name": "Leanne Graham",
     "username": "Bret",
